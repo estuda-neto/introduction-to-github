@@ -1,47 +1,34 @@
-# Introduction to GitHub
+# 🏆 Neto - Fullstack Developer
 
-_Get started using GitHub in less than an hour._
+<p align="center">
+  <strong>👋 Fala Dev eu sou Clodoaldo Neto!</strong> Seja bem-vindo ao meu repositório! Aqui você vai encontrar uma variedade de soluções nas áreas de automação, web e mobile — sempre usando o que há de novo nos ecossistemas 
+  <span style="color: #3178c6"><strong>TypeScript</strong></span> e 
+  <span style="color: #FFFF00"><strong>Python</strong></span>.
+</p>
 
-## Welcome
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+### 📝 Problemas já desenvolvidos
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
-
-In this exercise, you will:
-
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
-
-### How to start this exercise
-
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
-
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- Divulga Potiguar
+    - 🎯 Divulgação de Imóveis, Leitura de documentos pdf e de Foto, OCR.
+    - ❌ Fail, Não existe API pública, gratuita, fazendo com que a verificação dos imoveis não batessem 100% pois mesmo com dados sendo lidos corretamente do pdf,não haveria como cruzar os dados com validação de cartório etc.
+    - 🔧 Java, SpringBoot, swagger , spring batch, Hibernate/Jpa, mysql, SDK efi pay.
+    - 🔧 React, Nextjs, next-auth , Storybook, HookForm, yup, zustand e pdfjs.
+- Automação e Boot, API para Wattsap
+    - 🎯 Árvore de decisão e automação.
+    - 🔧 Typescript, nodejs, express, swagger, node-cron, whatsapp-web.js, sequelize e umzug.
+- Automação para Linkedin 
+    - 🔧 Python, FastAPI, swagger , BS4, Web Drive, Selenium, SqlAlchemy e Postgress.
+- Horario transporte Caicó/Sanja
+    - 🎯 Compartilhar horários das vans.
+    - 🔧 Expo RN, Linking for watts, planilha excel no drive.
+- App mini ecommerce
+    - 🎯 Variações dos Produtos.
+    - 🔧 Nodejs/express, sequelize, mysql, efi api.
+    - 🔧 Expo RN.
+- Algoritmos Base para IA
+    - 🎯 Algoritmos base como regressões, neurônios, Bayes, árvores de decisão, grafos etc...
+    - 🔧 Node com typescript
+- Em andamento ⏳ Salus
+    - 🎯 Algoritmos base, otimização de função, melhor horários, profissionais, serviços/exames e agendamentos .
+    - 🔧 Nest,Sequelize,Mysql
